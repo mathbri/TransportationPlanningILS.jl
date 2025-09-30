@@ -33,5 +33,5 @@ using TransportationPlanningILS
 julia_main_test(instanceName="[instance name]", timeLimit=[time limit])
 ```
 
-The industrial problem instances used in our numerical experiements are available at https://zenodo.org/record/8177237 and placed in a folder called .julia/datadeps/. 
+The industrial problem instances used in our numerical experiements are available at https://zenodo.org/records/17234091. 
 For smooth integration, put the instances downloaded in the data directory of the repository.
